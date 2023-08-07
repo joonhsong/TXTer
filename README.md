@@ -4,4 +4,5 @@ The purpose of this application is to develop a messenger app that not only clon
 from Meta (Facebook), but also specialize in communication within specific group of people.
 Users can log in with Github or Google account or create a separate account.
 
+## Special Thanks
 Special thanks to Antonio Erdeljac for tutorial and reference.
