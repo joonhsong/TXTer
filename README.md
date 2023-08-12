@@ -1,4 +1,4 @@
-# TXTer
+# JSNetwork
 This is source code for my web texting/messenger application.
 The purpose of this application is to develop a messenger app that not only clones the Messenger applications
 from Meta (Facebook), but also specialize in communication within specific group of people.
